@@ -1,0 +1,107 @@
+[
+    {
+        "titulo": "F1 2023",
+        "descricao": "Pise fundo no acelerador com o EA SPORTS\u2122 F1\u00ae 23, o jogo oficial do 2023 FIA Formula One World Championship\u2122. O novo cap\u00edtulo do modo de hist\u00f3ria \"Ponto de Frenagem\" oferece alta velocidade e rivalidades acirradas.",
+        "empresa": " Codemasters",
+        "imagem": "\\img\\jogos\\f123.jpg",
+        "preco": "143.60"
+    },
+    {
+        "titulo": "Cities: Skylines II",
+        "descricao": "Construa uma metr\u00f3pole do zero com o jogo de constru\u00e7\u00e3o de cidades mais realista j\u00e1 criado. Leve a criatividade e capacidade de resolver problemas a uma escala in\u00e9dita. Simula\u00e7\u00e3o profunda e economia viva. Jogo de constru\u00e7\u00e3o de cidades sem limites.",
+        "empresa": " Colossal Order Ltd.",
+        "imagem": "\\img\\jogos\\cits.jpg",
+        "preco": "199.99"
+    },
+    {
+        "titulo": "DayZ",
+        "descricao": "Quanto voc\u00ea aguenta em um mundo p\u00f3s-apocal\u00edptico? Uma terra arrasada por \"zumbis\" infectados, onde voc\u00ea compete com outros sobreviventes por recursos limitados. Voc\u00ea vai ajudar estranhos em sua luta? Ou evitar\u00e1 trai\u00e7\u00f5es como um lobo solit\u00e1rio? Esse \u00e9 o DayZ. Essa \u00e9 a sua hist\u00f3ria.",
+        "empresa": " Bohemia Interactive",
+        "imagem": "\\img\\jogos\\dayz.jpg",
+        "preco": "71.99"
+    },
+    {
+        "titulo": "Far Cry 6",
+        "descricao": "Entre no mundo cheio de adrenalina de uma guerrilha revolucion\u00e1ria atual. Com vistas impressionantes, tiroteios violentos, e uma enorme variedade de experi\u00eancias de jogo, nunca houve melhor hora para se juntar-se \u00e0 batalha.",
+        "empresa": " Ubisoft",
+        "imagem": "\\img\\jogos\\farcry6.jpg",
+        "preco": "62.49"
+    },
+    {
+        "titulo": "Forza Horizon 5",
+        "descricao": "Explore um mundo aberto vibrante nas terras mexicanas com corridas divertidas e sem limites enquanto pilota os melhores carros do mundo. Acelere para o Parque Hot Wheels e corra nas pistas mais radicais j\u00e1 criadas. Requer Forza Horizon 5, expans\u00e3o vendida separadamente.",
+        "empresa": " Playground Games",
+        "imagem": "\\img\\jogos\\forza5.jpg",
+        "preco": "249.00"
+    },
+    {
+        "titulo": "Overcooked! 2",
+        "descricao": "O Overcooked voltou trazendo mais caos para a cozinha! Volte para o Reino da Cebola e monte sua equipe de chefs em um jogo cooperativo local ou on-line para at\u00e9 quatro jogadores. Segurem seus aventais ... chegou a hora de salvar o mundo (de novo!)\r\n",
+        "empresa": " Team17",
+        "imagem": "\\img\\jogos\\oc2.jpg",
+        "preco": "14.97"
+    },
+    {
+        "titulo": "Mortal Kombat 1",
+        "descricao": "Descubra um Universo renascido de Mortal Kombat criado pelo Deus do Fogo Liu Kang. Mortal Kombat 1 inaugura uma nova era da franquia ic\u00f4nica com um novo sistema de luta, modos de jogo e fatalities!",
+        "empresa": " NetherRealm Studios",
+        "imagem": "\\img\\jogos\\mk1.jpg",
+        "preco": "279.90"
+    },
+    {
+        "titulo": "Mafia: Definitive Edition",
+        "descricao": "Ap\u00f3s um encontro com a m\u00e1fia, o taxista Tommy Angelo entra para o mundo do crime. Apesar de relutar em se relacionar com a fam\u00edlia Salieri, logo as oportunidades ficam grandes demais para ignorar.",
+        "empresa": " Hangar 13",
+        "imagem": "\\img\\jogos\\mafia.jpg",
+        "preco": "57.47"
+    },
+    {
+        "titulo": "Phasmophobia",
+        "descricao": "Phasmophobia \u00e9 um terror psicol\u00f3gico cooperativo online para 4 jogadores. A atividade paranormal est\u00e1 aumentando e cabe a voc\u00ea e sua equipe usar todo o equipamento de ca\u00e7a aos fantasmas \u00e0 sua disposi\u00e7\u00e3o para reunir o m\u00e1ximo de evid\u00eancias poss\u00edvel.",
+        "empresa": " Kinetic Games",
+        "imagem": "\\img\\jogos\\phasm.jpg",
+        "preco": "27.89"
+    },
+    {
+        "titulo": "DRAGON BALL Z: KAKAROT",
+        "descricao": "Viva novamente a hist\u00f3ria de Goku e outros Guerreiros Z em DRAGON BALL Z: KAKAROT! Al\u00e9m das batalhas \u00e9picas, sinta como \u00e9 a vida no mundo de DRAGON BALL Z lutando, pescando, comendo e treinando com Goku, Gohan, Vegeta e outros.",
+        "empresa": " CyberConnect2 Co. Ltd.",
+        "imagem": "\\img\\jogos\\dbz.jpg",
+        "preco": "229.90"
+    },
+    {
+        "titulo": "Resident Evil 4",
+        "descricao": "Sobreviv\u00eancia \u00e9 apenas o come\u00e7o. Seis anos se passaram desde o desastre biol\u00f3gico em Raccoon City. Leon S. Kennedy, um dos sobreviventes, segue o rastro da raptada filha do presidente at\u00e9 uma vila europeia isolada, onde h\u00e1 algo terrivelmente errado com os habitantes.",
+        "empresa": " CAPCOM Co., Ltd.",
+        "imagem": "\\img\\jogos\\re4.jpg",
+        "preco": "249.00"
+    },
+    {
+        "titulo": "Sid Meier\u2019s Civilization VI",
+        "descricao": "Civilization VI \u00e9 o mais novo epis\u00f3dio da Franquia Civilization, vencedora de diversos pr\u00eamios. Expanda seu imp\u00e9rio, avance sua cultura e v\u00e1 de encontro aos maiores l\u00edderes da hist\u00f3ria. Ser\u00e1 que sua civiliza\u00e7\u00e3o sobreviver\u00e1 ao teste do tempo?",
+        "empresa": " Firaxis Games",
+        "imagem": "\\img\\jogos\\civ6.jpg",
+        "preco": "129.00"
+    },
+    {
+        "titulo": "Fallout 4",
+        "descricao": "Bethesda Game Studios, os premiados criadores de Fallout 3 e The Elder Scrolls V: Skyrim, d\u00e3o as boas-vindas ao mundo de Fallout 4 \u2013 o jogo mais ambicioso de todos os tempos e a pr\u00f3xima gera\u00e7\u00e3o de jogos de mundo aberto.",
+        "empresa": "Bethesda Game Studios",
+        "imagem": "\\img\\jogos\\fallout4.jpg",
+        "preco": "59.99"
+    },
+    {
+        "titulo": "Project Zomboid",
+        "descricao": "Project Zomboid \u00e9 o m\u00e1ximo em sobreviv\u00eancia de zumbis. Sozinho ou Multijogador: voc\u00ea saqueia, constr\u00f3i, fabrica, luta, cultiva e pesca em uma luta pela sobreviv\u00eancia. Um conjunto de habilidades de RPG hardcore, um mapa vasto e altamente personaliz\u00e1vel aguardam os incautos. Ent\u00e3o, como voc\u00ea vai morrer? Basta uma mordida..",
+        "empresa": " The Indie Stone",
+        "imagem": "\\img\\jogos\\zomb.jpg",
+        "preco": "59.99"
+    },
+    {
+        "titulo": "Farming Simulator 22",
+        "descricao": "Entre na pele de um fazendeiro moderno! A agricultura, pecuária e silvicultura lhe oferecerão grande variedade de atividades em meio aos desafios apresentados pelas quatro estações, principalmente o inverno. Seja criativo na criação da sua fazenda e monte uma cadeia de produção para estender suas operações, formando um império da agricultura!",
+        "empresa": " Giants Software",
+        "imagem": "\\img\\jogos\\fs22.jpg",
+        "preco": "129.00"
+    }
+]

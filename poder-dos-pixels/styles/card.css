@@ -1,0 +1,106 @@
+.card__descricao {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 0.5em;
+}
+
+.card__botoes {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.botoes {
+    display: flex;
+}
+
+.card {
+    background: var(--cor-card);
+    box-shadow: 0px 4px 4px var(--sombra);
+    border-radius: 10px;
+    margin: 1em;
+    padding: 1em;
+}
+.descricao__titulo {
+    color: var(--branco);
+    font-weight: 700;
+}
+
+.descricao__titulo-jogo {
+    color: var(--branco);
+    font-size: 18px;
+    font-weight: 700;
+    margin: 0.5em 0 ;
+}
+
+.descricao__texto {
+    font-size: 14px;
+    color: var(--branco);
+}
+
+.botes__item {
+    margin: 0 0.5em;
+}
+
+.botoes__ancora {
+    background-color: #36e436;
+    border-radius: 10px;
+    padding: 1em 2.2em;
+    color: var(--branco);
+    font-weight: 700;
+    text-decoration: none;
+}
+
+.descricao {
+    padding: 0.5em 0.5em;
+}
+
+.botoes__texto {
+    display: none;
+}
+
+@media screen and (min-width: 1024px) {
+    .card {
+        width: 70%;
+        margin: 2em auto;
+    }
+    
+}
+
+@media screen and (min-width: 1728px) {  /*aq da pra fazer mais um card e por do lado se quiser */
+    .card {
+        width: 30%;
+        margin: 4em auto;
+    }
+
+    .botoes {
+        align-items: center;
+    }
+
+    .card__botoes {
+        align-items: center;
+    }
+    
+    .botoes__texto {
+        display: block;
+        color: var(--branco);
+        font-weight: 400;
+        text-decoration: none;
+    }
+
+    .botoes {
+        background-color: var(--azul-escuro);
+        padding: 0.5em 0.7em;
+        border: solid 1px var(--azul-escuro);
+        border-radius: 10px;
+    }
+
+    .botoes:hover {
+        background-color: var(--azul-medio);
+    }
+    
+    .botoes__ancora:hover {
+        border: solid 1px #36e436;
+        background-color: #1fac1f
+    }
+}

@@ -1,0 +1,56 @@
+.jogo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 1em;
+    padding: 1em 0em 1em 1em;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgb(29, 29, 29);
+    border: 1px solid white;
+
+}
+
+.jogo-container {
+    padding: 0 0em 0 1em;
+}
+
+.jogo__titulo {
+    color: #ffffffd3;
+    font-size: 18px;
+    font-weight: 500;
+    padding: 0 0 0.5em 0;
+}
+
+.jogo__texto {
+    color: rgba(255, 255, 255, 0.575);
+}
+
+.carrinho-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0 4em;
+    gap: 20px;
+}
+
+.jogo__preco {
+    color: white;
+}
+
+.jogo__link {
+    background-color: rgba(29, 161, 29, 0.945);
+    border: solid 2px green;
+    border-radius: 10px;
+    padding: 1em 1em;
+    color: var(--branco);
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.jogo__link:hover {
+    background-color: rgba(21, 212, 21, 0.945);
+}
+
+hr {
+    border: none;
+}

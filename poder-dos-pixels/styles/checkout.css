@@ -1,0 +1,85 @@
+.carrinho-item {
+    display: flex;
+    flex-direction: row;
+    padding: 1em 1.5em;
+    margin: 2em 5em;
+    border: solid 1px var(--verde);
+    border-radius: 14px;
+    box-shadow: 0 0 12px rgb(8, 8, 8);
+    justify-content: space-between;
+    align-items: center;
+}
+
+.jogo-head {
+    color: rgba(255, 255, 255, 0.822);
+    font-size: 21px;
+    font-weight: 500;
+}
+
+.carrinho-info {
+    display: flex;
+    flex-direction: row;
+    gap: 60px;
+    align-items: center;
+}
+
+.jogo-qtd {
+    color: rgba(255, 255, 255, 0.61);
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.jogo-price {
+    color: white;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.delete-button {
+    background-color: rgb(168, 21, 21);
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    font-weight: 700;
+    padding: 0.5em;
+    border: solid 1px rgb(172, 38, 38);
+    border-radius: 12px;
+}
+
+.delete-button:hover {
+    background-color: rgb(216, 16, 16);
+}
+
+.carrinho-total {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 4em;
+}
+
+.valor-carrinho {
+    background-color: rgb(231, 231, 231);
+    padding: 1.2em 29em;
+    border: solid 1px black;
+    border-radius: 20px;
+    font-size: 23px;
+    text-align: center;
+    font-weight: 500;
+}
+
+.finalizar-container {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    margin-top: 3em;
+}
+
+.botao-finalizar {
+    text-decoration: none;
+    color: white;
+    background-color: var(--verde);
+    border: 1px solid green;
+    border-radius: 18px;
+    padding: 1.5em 10em;
+    font-size: 22px;
+    font-weight: 600;
+}

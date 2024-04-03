@@ -1,0 +1,41 @@
+@import url("/styles/header.css");
+@import url("/styles/banner.css");
+@import url("/styles/slide.css");
+@import url("/styles/carrosel.css");
+@import url("/styles/card.css");
+@import url("/styles/topicos.css");
+@import url("/styles/contato.css");
+@import url("/styles/footer.css");
+@import url("/styles/catalogo.css");
+@import url("/styles/sobre.css");
+@import url("/styles/checkout.css");
+@import url("/styles/compra.css");
+
+:root {
+    --cor-de-fundo: #101031;
+    --cor-do-header: #010611;
+    --fundo-menu: #010611;
+    --cor-card: #2A2A75;
+    --amarelo: #f0a818;
+    --verde: #3ee23e;
+    --vermelho: #e90e0e;
+    --amarelo-sombra: #b37e14;
+    --branco: #ffffff;
+    --azul-claro: #7890a8;
+    --azul-medio: #304878;
+    --azul-escuro: #181848;
+    --azul-link: #0241be;
+    --preto: #000000;
+    --sombra: rgba(0, 0, 0, 0.25);
+    --amarelo-degrade: linear-gradient(97.54deg, #f0a818  35.49%, #000000 165.37%);
+    --fonte-principal: "Poppins";
+    --fonte-secundaria: "Josefin Sans";
+    
+}
+
+body {
+    background-color: var(--cor-de-fundo);
+    font-family: var(--fonte-principal);
+    font-size: 16px;
+    font-weight: 400;
+}

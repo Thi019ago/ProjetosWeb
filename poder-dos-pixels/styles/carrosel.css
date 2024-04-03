@@ -1,0 +1,54 @@
+.carrosel_titulo {
+    color: var(--azul-claro);
+    background-color: var(--cor-de-fundo); /* altera cor do fundo do titulo "novos lancamentos" */
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 18px;
+    font-weight: 700;
+    padding: 1em 0 0.5em 0;
+}
+
+.swiper-slide img {
+    width: 100%;
+}
+
+.swiper-button-prev, 
+.swiper-button-next {
+    display: none;
+}
+
+.swiper-pagination {
+    position: initial;
+    margin: 0.5em;
+}
+
+@media screen and (min-width: 1024px) {
+    .carrosel_titulo {
+        font-size: 26px;
+        background-color: var(--azul-escuro);
+        padding: 1em 0 1em 0;
+    }
+    
+    .swiper-pagination {
+        margin: .5em 0 .5em 0;
+    }
+
+    .swiper {
+        width: 100%;
+    }
+}
+
+@media screen and (min-width:1728px) {
+
+    .carrosel_titulo {
+        font-size: 28px;
+        background-color: var(--azul-escuro);
+        padding: 1em 0 1em 0;
+        width: 100%;
+    }
+
+    .swiper {
+        width: 60%;
+    }
+    
+}
